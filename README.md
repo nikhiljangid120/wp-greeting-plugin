@@ -1,0 +1,1 @@
+# wp-greeting-plugin
